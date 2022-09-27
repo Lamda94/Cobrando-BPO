@@ -1,6 +1,6 @@
 # Prueba Técnica Cobrando BPO 
 
-Este aplicativo fue desarrollado utilizando con el lenguaje de programación JavaScript.
+Este aplicativo fue desarrollado utilizando el lenguaje de programación JavaScript.
 
 ## Instrucciones de ejecución
 
@@ -23,11 +23,13 @@ Con esto tendremos la conexión a nuestra base de datos lista y las tablas reque
 ### `npm run start-emple`
 
 Con esto ya tenemos el microservicio para la entidad empleados funcionando.
-El punto de entrada para este servicio es #http://localhost:1234/emple 
+
+El punto de entrada para este servicio es http://localhost:1234/emple 
 
 6. Ejecutar el comando 
 
 ### `npm run start-depa`
 
 Con esto ya está funcionando el microservicio para los departamentos
-El punto de entrada para este servicio es #http://localhost:3000/depa 
+
+El punto de entrada para este servicio es http://localhost:3000/depa 
